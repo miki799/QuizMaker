@@ -1,0 +1,40 @@
+In distance measuring, what does AU stand for?
+   A. Astronomical Unit    B. Astrology Unit    C. Anatomy Unit    D. Alchemy Unit	   		                   CorrectAnswer:A
+What is the square root of 121?
+   A. 10    B. 13    C. 12    D. 11			                   				                   CorrectAnswer:D
+What is a parsec a unit of?
+   A. Velocity    B. Acceleration    C. Length    D. Speed			   	   		                   CorrectAnswer:C
+Which number system uses only the symbols 1 and 0?
+   A. The hexadecimal system    B. The binary system    C. The octal system    D. The decimal system	                   CorrectAnswer:B
+Who invented the alternating current motor?
+   A. Elon Musk    B. Nikola Tesla    C. Thomas Edison    D. Albert Einstein	   			                   CorrectAnswer:B
+In mathematics, which prefix refers to 10 to the power of 21?
+   A. Zetta    B. Jotta    C. Giga    D. Peta		                                                                   CorrectAnswer:A
+What does the Kelvin scale measure?
+   A. Humidity   B. Permittivity    C. Temperature   D. Pressure		                                           CorrectAnswer:C
+What "imaginary" number is defined as the square root of -1?
+   A. v    B. C    C. Z    D. i			   	                                                                   CorrectAnswer:D
+What is the SI Unit for pressure?
+   A. Ampere    B. Watt    C. Pascal    D. Newton		                                                           CorrectAnswer:C
+A triangle with three equal sides is called a what?
+   A. Isosceles    B. Equilateral    C. Scalene    D. Right-angled	                                                   CorrectAnswer:B
+Which is the oldest planet in our solar system?
+   A. Jupiter    B. Earth    C. Saturn    D. Neptun	   						                   CorrectAnswer:A
+How many watts make a kilowatt?
+   A. 100 W    B. 1000 W    C. 10000 W    D. 1024 W	                   			                           CorrectAnswer:B
+What is measured in Hertz?
+   A. Frequency    B. Sound intensity    C. Length    D. Noise	   	   				                   CorrectAnswer:A
+Which prefix refers to 10 to the power of minus 12?
+   A. Pico    B. Mili    C. Atto    D. Nano	   							                   CorrectAnswer:A
+How long is a parsec?
+   A. 3.26 km    B. 1 light year    C. 3.26 light years    D. Parsec is not a length unit	                           CorrectAnswer:C
+What is the term for the physical disintegration of a nuclear reactor's core?
+   A. Congealment    B. Disintegration of reactor's core is impossible    C. Dissolution    D. Meltdown                    CorrectAnswer:D
+Who is the creator of C++?
+   A. Guido van Rossum   B. Dennis Ritchie    C. John Carmack   D. Bjarne Stroustrup		   	                   CorrectAnswer:D
+How many Newton's laws exist in mechanics?
+   A. 3    B. 6    C. 2    D. 1			   	   						   	           CorrectAnswer:A
+What is the SI Unit for Force?
+   A. Edison    B. Newton    C. Pascal    D. Colt		   					   		   CorrectAnswer:B
+RISC is ...?
+   A. a defensive programming style    B. a web framework    C. a CPU design strategy   D. a programming language	   CorrectAnswer:C
